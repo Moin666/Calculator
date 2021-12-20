@@ -1,0 +1,15 @@
+What we learn from calculator app
+	1)eval(string)
+		eval is javascript function that can take string or expression as argument and will return its solved value.
+			eval("1+2")
+	2)how to get value of input element
+		 var displayValue = document.querySelectorAll("input")
+		 displayValue.value = ""
+	         input value type is string.
+	3)how to retrieve value on input screen when user click on buttons
+		displayvalue.value = displayvalue.value + (number which we pass in function) 
+	
+	4)forEach is method of array which run function times of element present in array.
+
+		
+			
